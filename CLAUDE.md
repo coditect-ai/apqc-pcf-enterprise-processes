@@ -8,23 +8,58 @@ This repository contains the APQC Process Classification Framework (PCF) transfo
 
 | Item | Value |
 |------|-------|
-| Total Elements | 1,855 process elements |
+| Total Elements | 1,855+ process elements per industry |
 | Categories | 13 major enterprise process areas |
 | Hierarchy Depth | Up to 5 levels (X.X.X.X.X) |
-| Source | APQC Cross-Industry PCF v7.2.1 (April 2023), v7.4 (August 2024) |
+| Industries | 19 (1 complete, 18 pending) |
+| Source Versions | v7.2.1, v7.2.2, v7.4 |
 
 ## Directory Structure
 
-```
+```text
 apqc-pcf-enterprise-processes/
-├── README.md                      # Repository overview
-├── CLAUDE.md                      # This file
-└── cross-industry-v7.4/           # Cross-Industry PCF
-    ├── APQC-PCF-OVERVIEW.md       # Master index
-    ├── category-*.md              # 13 category documents
-    ├── category-*/                # Process group breakdowns
-    └── K014750-APQC-PCF-*/        # PDF v7.4 conversion
+├── README.md                           # Repository overview
+├── CLAUDE.md                           # This file
+├── PROJECT-PLAN-DECOMPOSITION.md       # Decomposition workflow
+│
+├── cross-industry-v7.4/                # ✅ Complete
+│   ├── source/                         # Original PDF/Excel
+│   ├── APQC-PCF-OVERVIEW.md
+│   ├── category-*.md
+│   └── K014750-APQC-PCF-*/
+│
+├── aerospace-defense/                  # ⏳ Pending
+│   ├── source/
+│   ├── README.md
+│   └── CLAUDE.md
+│
+├── [17 more industry folders]          # ⏳ Pending
+└── utilities/
 ```
+
+## Industry Status
+
+| Industry | Status | AI Focus |
+|----------|--------|----------|
+| Cross-Industry | ✅ Complete | Universal enterprise processes |
+| Aerospace & Defense | ⏳ Pending | Defense contracts, supply chain traceability |
+| Airline | ⏳ Pending | Revenue management, crew scheduling |
+| Automotive | ⏳ Pending | Manufacturing, supply chain, quality |
+| Banking | ⏳ Pending | Fraud detection, credit risk, compliance |
+| Broadcasting | ⏳ Pending | Content recommendation, ad placement |
+| City Government | ⏳ Pending | Citizen services, permits, public works |
+| Consumer Electronics | ⏳ Pending | Product lifecycle, warranty, support |
+| Consumer Products | ⏳ Pending | Demand forecasting, trade promotion |
+| Downstream Petroleum | ⏳ Pending | Refinery optimization, supply chain |
+| Education | ⏳ Pending | Enrollment, learning management, grants |
+| Healthcare Provider | ⏳ Pending | Clinical decision support, coding |
+| Health Insurance Payor | ⏳ Pending | Claims adjudication, fraud detection |
+| Life Sciences | ⏳ Pending | Drug discovery, clinical trials, regulatory |
+| Property & Casualty Insurance | ⏳ Pending | Underwriting, claims, fraud |
+| Retail | ⏳ Pending | Demand forecasting, inventory, pricing |
+| Telecommunications | ⏳ Pending | Network optimization, churn prediction |
+| Upstream Petroleum | ⏳ Pending | Reservoir optimization, drilling |
+| Utilities | ⏳ Pending | Grid optimization, demand response |
 
 ## The 13 Categories
 
@@ -60,16 +95,22 @@ grep -r "automation" cross-industry-v7.4/ --include="*.md" -l
 grep -r "customer" cross-industry-v7.4/category-06-*.md
 ```
 
-### View a specific category
+### View decomposition process
 
 ```bash
-cat cross-industry-v7.4/category-08-manage-information-technology-it.md
+cat PROJECT-PLAN-DECOMPOSITION.md
 ```
 
-### Search by PCF ID
+### Start industry decomposition
 
 ```bash
-grep "PCF ID.*17040" cross-industry-v7.4/*.md
+/agent pcf-decomposer "banking"
+```
+
+### List pending industries
+
+```bash
+ls -d */ | grep -v cross-industry
 ```
 
 ## AI Applicability Analysis Notes
