@@ -52,7 +52,7 @@ Industry-specific Process Classification Framework for the Upstream Petroleum se
 
 ## Related
 
-- [PROJECT-PLAN-DECOMPOSITION.md](../PROJECT-PLAN-DECOMPOSITION.md)
+- [PCF-DECOMPOSITION-WORKFLOW.md](../PCF-DECOMPOSITION-WORKFLOW.md)
 - [Cross-Industry Reference](../cross-industry-v7.4/)
 
 ---

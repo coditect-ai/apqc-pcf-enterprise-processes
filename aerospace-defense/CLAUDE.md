@@ -63,7 +63,7 @@ ls -la source/
 
 ## Related
 
-- [PROJECT-PLAN-DECOMPOSITION.md](../PROJECT-PLAN-DECOMPOSITION.md) - Decomposition workflow
+- [PCF-DECOMPOSITION-WORKFLOW.md](../PCF-DECOMPOSITION-WORKFLOW.md) - Decomposition workflow
 - [Cross-Industry v7.4](../cross-industry-v7.4/) - Reference implementation
 
 ---

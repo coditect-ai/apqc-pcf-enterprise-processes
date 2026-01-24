@@ -20,7 +20,7 @@ This repository contains the APQC Process Classification Framework (PCF) transfo
 apqc-pcf-enterprise-processes/
 ├── README.md                           # Repository overview
 ├── CLAUDE.md                           # This file
-├── PROJECT-PLAN-DECOMPOSITION.md       # Decomposition workflow
+├── PCF-DECOMPOSITION-WORKFLOW.md       # Decomposition workflow
 │
 ├── cross-industry-v7.4/                # ✅ Complete
 │   ├── source/                         # Original PDF/Excel
@@ -95,10 +95,10 @@ grep -r "automation" cross-industry-v7.4/ --include="*.md" -l
 grep -r "customer" cross-industry-v7.4/category-06-*.md
 ```
 
-### View decomposition process
+### View decomposition workflow
 
 ```bash
-cat PROJECT-PLAN-DECOMPOSITION.md
+cat PCF-DECOMPOSITION-WORKFLOW.md
 ```
 
 ### Start industry decomposition
