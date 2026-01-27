@@ -13,10 +13,13 @@ keywords:
 tokens: ~560
 created: '2026-01-24'
 updated: '2026-01-24'
-source: K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx
+source: k08897-cross-industry-v721-vs-v611-april-2023.xlsx
 tags:
 - enterprise-process
 - process-framework
+apqc_license: royalty-free
+apqc_attribution: "APQC Process Classification Framework® - Open Standard"
+apqc_source: "www.apqc.org/pcf"
 ---
 # 11.0 - Manage Enterprise Risk, Compliance, Remediation, and Resiliency
 
@@ -245,4 +248,12 @@ Changes are indicated by:
 
 ---
 
-**Back to:** [APQC PCF Overview](./APQC-PCF-OVERVIEW.md)
+**Back to:** [APQC PCF Overview](./apqc-pcf-overview.md)
+
+---
+
+## APQC Attribution
+
+> This APQC Process Classification Framework® ("PCF") is an open standard developed by APQC, a nonprofit that promotes benchmarking and best practices worldwide. APQC grants a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF with proper attribution.
+>
+> **Source:** [www.apqc.org/pcf](https://www.apqc.org/pcf)

@@ -18,6 +18,9 @@ tags:
 - metrics
 - benchmarking
 - KPIs
+apqc_license: royalty-free
+apqc_attribution: "APQC Process Classification Framework® - Open Standard"
+apqc_source: "www.apqc.org/pcf"
 ---
 # APQC PCF Benchmarkable Processes
 
@@ -419,4 +422,12 @@ Based on metrics availability and process characteristics:
 
 ---
 
-**Back to:** [APQC PCF Overview](./APQC-PCF-OVERVIEW.md)
+**Back to:** [APQC PCF Overview](./apqc-pcf-overview.md)
+
+---
+
+## APQC Attribution
+
+> This APQC Process Classification Framework® ("PCF") is an open standard developed by APQC, a nonprofit that promotes benchmarking and best practices worldwide. APQC grants a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF with proper attribution.
+>
+> **Source:** [www.apqc.org/pcf](https://www.apqc.org/pcf)

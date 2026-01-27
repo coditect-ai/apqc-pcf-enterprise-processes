@@ -19,6 +19,9 @@ tags:
 - project-plan
 - APQC-PCF
 - research
+apqc_license: royalty-free
+apqc_attribution: "APQC Process Classification Framework® - Open Standard"
+apqc_source: "www.apqc.org/pcf"
 ---
 
 # APQC PCF Analysis & Documentation Project Plan
@@ -75,7 +78,7 @@ Transform the APQC Process Classification Framework (PCF) Cross-Industry Excel d
 **Duration:** Session 1
 
 **Activities:**
-1. Create master overview document (APQC-PCF-OVERVIEW.md)
+1. Create master overview document (apqc-pcf-overview.md)
 2. Create 13 monolithic category documents
 3. Create README.md with navigation
 4. Create CLAUDE.md with context for AI assistants
@@ -83,7 +86,7 @@ Transform the APQC Process Classification Framework (PCF) Cross-Industry Excel d
 **Outputs:**
 | Document | Purpose | Size |
 |----------|---------|------|
-| APQC-PCF-OVERVIEW.md | Master index, AI applicability summary | 6KB |
+| apqc-pcf-overview.md | Master index, AI applicability summary | 6KB |
 | category-{01-13}-*.md | Full category content | 13 files |
 | README.md | Directory documentation | 6KB |
 | CLAUDE.md | AI assistant context | 4KB |
@@ -158,9 +161,9 @@ category-{01-13}-*/
 **Outputs:**
 | Document | Content | Size |
 |----------|---------|------|
-| APQC-PCF-GLOSSARY.md | All 1,856 definitions | 489KB |
-| APQC-PCF-CHANGE-ANALYSIS.md | Version change tracking | 33KB |
-| APQC-PCF-BENCHMARKABLE-METRICS.md | 227 measurable processes | 32KB |
+| apqc-pcf-glossary.md | All 1,856 definitions | 489KB |
+| apqc-pcf-change-analysis.md | Version change tracking | 33KB |
+| apqc-pcf-benchmarkable-metrics.md | 227 measurable processes | 32KB |
 
 **Change Statistics:**
 | Change Type | Count |
@@ -218,13 +221,13 @@ category-{01-13}-*/
 
 ```
 apqc-pcf-enterprise-processes/
-├── APQC-PCF-OVERVIEW.md              # Master index
-├── APQC-PCF-GLOSSARY.md              # 489KB definitions
-├── APQC-PCF-CHANGE-ANALYSIS.md       # Version tracking
-├── APQC-PCF-BENCHMARKABLE-METRICS.md # Measurable processes
+├── apqc-pcf-overview.md              # Master index
+├── apqc-pcf-glossary.md              # 489KB definitions
+├── apqc-pcf-change-analysis.md       # Version tracking
+├── apqc-pcf-benchmarkable-metrics.md # Measurable processes
 ├── README.md                          # Documentation
 ├── CLAUDE.md                          # AI context
-├── PROJECT-PLAN-APQC-PCF-ANALYSIS.md # This document
+├── project-plan-apqc-pcf-analysis.md # This document
 ├── category-01-develop-vision-and-strategy/
 │   ├── README.md
 │   ├── 1.1-*.md through 1.4-*.md
@@ -314,8 +317,8 @@ level_1 = df[df['Hierarchy ID'].astype(str).str.match(f"^{cat_num}\\.[1-9][0-9]*
 
 ### 7.1 Source Documents
 
-- `K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx` - Primary data source
-- `K014750_APQC Process Classification Framework (PCF) - Cross Industry - PDF Version 7.4_January 2025.pdf` - Reference PDF
+- `k08897-cross-industry-v721-vs-v611-april-2023.xlsx` - Primary data source
+- `k014750-apqc-process-classification-framework-(pcf)-cross-industry-pdf-version-7.4-january-2025.pdf` - Reference PDF
 
 ### 7.2 Related Research
 
@@ -335,3 +338,11 @@ level_1 = df[df['Hierarchy ID'].astype(str).str.match(f"^{cat_num}\\.[1-9][0-9]*
 **Created:** 2026-01-24
 **Author:** CODITECT Research Team
 **Status:** Phase 1 Complete, Phase 6-7 In Progress
+
+---
+
+## APQC Attribution
+
+> This APQC Process Classification Framework® ("PCF") is an open standard developed by APQC, a nonprofit that promotes benchmarking and best practices worldwide. APQC grants a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF with proper attribution.
+>
+> **Source:** [www.apqc.org/pcf](https://www.apqc.org/pcf)

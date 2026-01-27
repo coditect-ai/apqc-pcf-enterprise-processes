@@ -10,11 +10,45 @@ keywords:
 - reference
 tokens: ~1000
 created: '2026-01-24'
-updated: '2026-01-24'
+updated: '2026-01-26'
 tags:
 - reference
+apqc_license: royalty-free
+apqc_attribution: "APQC Process Classification Framework® - Open Standard"
+apqc_source: "www.apqc.org/pcf"
+ai_indexing: prohibited
+compliance_status: human-reference-only
 ---
 # APQC PCF Enterprise Processes - Claude Context
+
+## CRITICAL: Compliance Restrictions
+
+> **DO NOT INDEX FOR AI/ML SYSTEMS**
+>
+> Per APQC Terms of Service (August 2025):
+> "Use any of APQC's Online Resources to create, train, or test any
+> large language models or other artificial intelligence or machine
+> learning systems" - **PROHIBITED**
+>
+> **This content is for HUMAN REFERENCE ONLY:**
+> - DO NOT index in platform.db
+> - DO NOT generate embeddings
+> - DO NOT include in semantic search
+> - DO NOT use for agent discovery
+> - DO NOT process with AI/ML tools
+>
+> **For AI-enabled process framework, use:**
+> - CODITECT Process Framework (CPF) at `frameworks/cpf/`
+> - CPF is a compliant derivative work with proper attribution
+> - See: ADR-122 for legal analysis
+
+---
+
+## APQC Attribution
+
+> This APQC Process Classification Framework® ("PCF") is an open standard developed by APQC, a nonprofit that promotes benchmarking and best practices worldwide. APQC grants a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF with proper attribution.
+>
+> **Source:** [www.apqc.org/pcf](https://www.apqc.org/pcf)
 
 ## Purpose
 
@@ -33,7 +67,7 @@ This directory contains the APQC Process Classification Framework (PCF) v7.2.1 t
 
 ```
 apqc-pcf-enterprise-processes/
-├── APQC-PCF-OVERVIEW.md           # Master index and summary
+├── apqc-pcf-overview.md           # Master index and summary
 ├── README.md                       # Directory documentation
 ├── CLAUDE.md                       # This file
 └── category-{NN}-{name}.md         # 13 category documents
@@ -144,3 +178,11 @@ Use this framework for:
 ---
 
 **Last Updated:** 2026-01-24
+
+---
+
+## APQC Attribution
+
+> This APQC Process Classification Framework® ("PCF") is an open standard developed by APQC, a nonprofit that promotes benchmarking and best practices worldwide. APQC grants a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF with proper attribution.
+>
+> **Source:** [www.apqc.org/pcf](https://www.apqc.org/pcf)

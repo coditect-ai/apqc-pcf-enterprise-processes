@@ -144,7 +144,7 @@ This workflow defines the repeatable process for converting APQC Process Classif
 │   │   ├── 1.2-*.md
 │   │   └── README.md
 │   └── pdf-pages/                      # PDF page-by-page (optional)
-│       ├── PCF-00-01-Overview.md
+│       ├── pcf-00-01-overview.md
 │       └── PCF-01-00-*.md
 ```
 
@@ -166,7 +166,7 @@ This workflow defines the repeatable process for converting APQC Process Classif
 |------|---------|---------|
 | Category | `category-NN-{name}.md` | `category-01-develop-vision-and-strategy.md` |
 | Process Group | `N.N-{name}.md` | `1.1-define-business-concept.md` |
-| PDF Page | `PCF-MM-NN-{Name}.md` | `PCF-01-00-Develop-Vision-and-Strategy.md` |
+| PDF Page | `PCF-MM-NN-{Name}.md` | `pcf-01-00-develop-vision-and-strategy.md` |
 | Overview | `{industry}-overview.md` | `aerospace-defense-overview.md` |
 | Glossary | `{industry}-glossary.md` | `aerospace-defense-glossary.md` |
 | Metrics | `{industry}-metrics.md` | `aerospace-defense-metrics.md` |
@@ -184,7 +184,7 @@ Where:
   Name = Descriptive title (PascalCase)
 
 Examples:
-  PCF-00-01-Overview.md           # Meta: Overview
+  pcf-00-01-overview.md           # Meta: Overview
   PCF-01-00-Develop-Vision.md     # Category 1 main
   PCF-08-02-IT-Operations.md      # Category 8, page 2
 ```
@@ -356,7 +356,7 @@ git commit -m "feat(pcf): decompose {industry} PCF v{version}"
 git push
 
 # 5. Update status
-echo "| {Industry} | v{version} | v{version} | ✅ Complete |" >> PCF-DECOMPOSITION-WORKFLOW.md
+echo "| {Industry} | v{version} | v{version} | ✅ Complete |" >> pcf-decomposition-workflow.md
 ```
 
 ### Batch Processing

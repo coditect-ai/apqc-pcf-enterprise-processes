@@ -1,5 +1,34 @@
 # APQC PCF Enterprise Processes - Claude Context
 
+## CRITICAL: Compliance Restrictions
+
+> **DO NOT INDEX FOR AI/ML SYSTEMS**
+>
+> Per APQC Terms of Service (August 2025):
+> "Use any of APQC's Online Resources to create, train, or test any
+> large language models or other artificial intelligence or machine
+> learning systems" - **PROHIBITED**
+>
+> **This content is for HUMAN REFERENCE ONLY:**
+> - DO NOT index in platform.db
+> - DO NOT generate embeddings
+> - DO NOT include in semantic search
+> - DO NOT use for agent discovery
+> - DO NOT process with AI/ML tools
+>
+> **For AI-enabled process framework, use:**
+> - CODITECT Process Framework (CPF) at `frameworks/cpf/`
+> - CPF is a compliant derivative work with proper attribution
+> - See: ADR-122 for legal analysis
+
+---
+
+## APQC Attribution
+
+> This APQC Process Classification Framework® ("PCF") is an open standard developed by APQC, a nonprofit that promotes benchmarking and best practices worldwide. APQC grants a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF with proper attribution.
+>
+> **Source:** [www.apqc.org/pcf](https://www.apqc.org/pcf)
+
 ## Purpose
 
 This repository contains the APQC Process Classification Framework (PCF) transformed into markdown for AI applicability analysis. The PCF is the world's most widely used process framework for business process benchmarking.
@@ -20,11 +49,11 @@ This repository contains the APQC Process Classification Framework (PCF) transfo
 apqc-pcf-enterprise-processes/
 ├── README.md                           # Repository overview
 ├── CLAUDE.md                           # This file
-├── PCF-DECOMPOSITION-WORKFLOW.md       # Decomposition workflow
+├── pcf-decomposition-workflow.md       # Decomposition workflow
 │
 ├── cross-industry-v7.4/                # ✅ Complete
 │   ├── source/                         # Original PDF/Excel
-│   ├── APQC-PCF-OVERVIEW.md
+│   ├── apqc-pcf-overview.md
 │   ├── category-*.md
 │   └── K014750-APQC-PCF-*/
 │
@@ -98,7 +127,7 @@ grep -r "customer" cross-industry-v7.4/category-06-*.md
 ### View decomposition workflow
 
 ```bash
-cat PCF-DECOMPOSITION-WORKFLOW.md
+cat pcf-decomposition-workflow.md
 ```
 
 ### Start industry decomposition
@@ -135,3 +164,11 @@ ls -d */ | grep -v cross-industry
 ---
 
 **Last Updated:** 2026-01-24
+
+---
+
+## APQC Attribution
+
+> This APQC Process Classification Framework® ("PCF") is an open standard developed by APQC, a nonprofit that promotes benchmarking and best practices worldwide. APQC grants a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF with proper attribution.
+>
+> **Source:** [www.apqc.org/pcf](https://www.apqc.org/pcf)

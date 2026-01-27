@@ -19,6 +19,9 @@ tags:
 - research
 - process-framework
 - AI-applicability
+apqc_license: royalty-free
+apqc_attribution: "APQC Process Classification Framework® - Open Standard"
+apqc_source: "www.apqc.org/pcf"
 ---
 # APQC PCF Enterprise Processes
 
@@ -39,11 +42,11 @@ Complete structured analysis of the APQC Process Classification Framework (PCF) 
 
 | Document | Description |
 |----------|-------------|
-| [APQC-PCF-OVERVIEW.md](./APQC-PCF-OVERVIEW.md) | Master overview with navigation |
-| [APQC-PCF-GLOSSARY.md](./APQC-PCF-GLOSSARY.md) | Complete definitions (489KB) |
-| [APQC-PCF-CHANGE-ANALYSIS.md](./APQC-PCF-CHANGE-ANALYSIS.md) | Version change tracking |
-| [APQC-PCF-BENCHMARKABLE-METRICS.md](./APQC-PCF-BENCHMARKABLE-METRICS.md) | 227 measurable processes |
-| [PROJECT-PLAN-APQC-PCF-ANALYSIS.md](./PROJECT-PLAN-APQC-PCF-ANALYSIS.md) | Project plan & methodology |
+| [apqc-pcf-overview.md](./apqc-pcf-overview.md) | Master overview with navigation |
+| [apqc-pcf-glossary.md](./apqc-pcf-glossary.md) | Complete definitions (489KB) |
+| [apqc-pcf-change-analysis.md](./apqc-pcf-change-analysis.md) | Version change tracking |
+| [apqc-pcf-benchmarkable-metrics.md](./apqc-pcf-benchmarkable-metrics.md) | 227 measurable processes |
+| [project-plan-apqc-pcf-analysis.md](./project-plan-apqc-pcf-analysis.md) | Project plan & methodology |
 
 ## Category Index
 
@@ -79,10 +82,10 @@ Complete structured analysis of the APQC Process Classification Framework (PCF) 
 
 ```
 apqc-pcf-enterprise-processes/
-├── APQC-PCF-OVERVIEW.md              # Navigation index
-├── APQC-PCF-GLOSSARY.md              # All 1,856 definitions
-├── APQC-PCF-CHANGE-ANALYSIS.md       # v7.2.1 vs v6.1.1 changes
-├── APQC-PCF-BENCHMARKABLE-METRICS.md # 227 measurable processes
+├── apqc-pcf-overview.md              # Navigation index
+├── apqc-pcf-glossary.md              # All 1,856 definitions
+├── apqc-pcf-change-analysis.md       # v7.2.1 vs v6.1.1 changes
+├── apqc-pcf-benchmarkable-metrics.md # 227 measurable processes
 ├── README.md                          # This file
 ├── CLAUDE.md                          # Claude context
 ├── category-01-develop-vision-and-strategy/
@@ -118,10 +121,10 @@ apqc-pcf-enterprise-processes/
 
 ```bash
 # View complete glossary
-cat APQC-PCF-GLOSSARY.md
+cat apqc-pcf-glossary.md
 
 # Find processes with metrics
-cat APQC-PCF-BENCHMARKABLE-METRICS.md
+cat apqc-pcf-benchmarkable-metrics.md
 
 # Search for automation targets
 grep -r "automation" . --include="*.md"
@@ -132,9 +135,17 @@ cat category-09-manage-financial-resources/9.3-perform-general-accounting-and-re
 
 ## Source Data
 
-**Original Excel:** `../K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx`
+**Original Excel:** `../k08897-cross-industry-v721-vs-v611-april-2023.xlsx`
 
 ---
 
 **Owner:** CODITECT Research Team
 **License:** APQC Content - See original Excel for copyright
+
+---
+
+## APQC Attribution
+
+> This APQC Process Classification Framework® ("PCF") is an open standard developed by APQC, a nonprofit that promotes benchmarking and best practices worldwide. APQC grants a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF with proper attribution.
+>
+> **Source:** [www.apqc.org/pcf](https://www.apqc.org/pcf)

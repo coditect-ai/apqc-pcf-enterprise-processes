@@ -52,7 +52,7 @@ Industry-specific Process Classification Framework for the Aerospace & Defense s
 
 ## Related
 
-- [PCF-DECOMPOSITION-WORKFLOW.md](../PCF-DECOMPOSITION-WORKFLOW.md)
+- [pcf-decomposition-workflow.md](../pcf-decomposition-workflow.md)
 - [Cross-Industry Reference](../cross-industry-v7.4/)
 
 ---

@@ -28,11 +28,11 @@ The APQC PCF is the world's most widely used process framework for business proc
 apqc-pcf-enterprise-processes/
 ├── README.md                           # This file
 ├── CLAUDE.md                           # AI context
-├── PCF-DECOMPOSITION-WORKFLOW.md       # Repeatable 7-phase decomposition workflow
+├── pcf-decomposition-workflow.md       # Repeatable 7-phase decomposition workflow
 │
 ├── cross-industry-v7.4/                # ✅ Complete - Reference implementation
 │   ├── source/                         # Original PDF and Excel files
-│   ├── APQC-PCF-OVERVIEW.md            # Master index
+│   ├── apqc-pcf-overview.md            # Master index
 │   ├── category-01-*.md ... category-13-*.md
 │   ├── category-01-*/ ... category-13-*/
 │   └── K014750-APQC-PCF-*/             # PDF v7.4 pages
@@ -119,14 +119,14 @@ apqc-pcf-enterprise-processes/
 
 ```bash
 ls cross-industry-v7.4/
-cat cross-industry-v7.4/APQC-PCF-OVERVIEW.md
+cat cross-industry-v7.4/apqc-pcf-overview.md
 ```
 
 ### Start industry decomposition
 
 ```bash
 # Follow the decomposition workflow
-cat PCF-DECOMPOSITION-WORKFLOW.md
+cat pcf-decomposition-workflow.md
 
 # Or use the decomposer agent
 /agent pcf-decomposer "aerospace-defense"
