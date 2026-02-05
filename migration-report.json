@@ -1,0 +1,1012 @@
+{
+  "submodule": "/Users/halcasteel/PROJECTS/coditect-rollout-master/submodules/enterprise-processes/apqc-pcf-enterprise-processes",
+  "timestamp": "2026-01-27T06:01:44.839197Z",
+  "dry_run": false,
+  "stats": {
+    "files_renamed": 61,
+    "dirs_renamed": 0,
+    "failed": 1,
+    "references_updated": 266
+  },
+  "results": [
+    {
+      "old_path": "PCF-DECOMPOSITION-WORKFLOW.md",
+      "new_path": "pcf-decomposition-workflow.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": ".DS_Store",
+      "new_path": ".ds-store",
+      "success": false,
+      "method": null,
+      "error": "Direct mv failed: fatal: not under version control, source=.DS_Store, destination=.ds-store\n"
+    },
+    {
+      "old_path": "broadcasting/source/Broadcasting_722_March_2025.pdf",
+      "new_path": "broadcasting/source/broadcasting-722-march-2025.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "broadcasting/source/K06641_Broadcasting_v722_vsBroadcasting_v721_2025.xlsx",
+      "new_path": "broadcasting/source/k06641-broadcasting-v722-vs-broadcasting-v721-2025.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "city-government/source/K07156_City Government_v721_020619_April 2023.pdf",
+      "new_path": "city-government/source/k07156-city-government-v721-020619-april-2023.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "city-government/source/K07121_City_Government_v721_vs_City_Government_v610_April 2023.xlsx",
+      "new_path": "city-government/source/k07121-city-government-v721-vs-city-government-v610-april-2023.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "healthcare-provider/source/K07154_Healthcare Provider_v721_021319_April 2023.pdf",
+      "new_path": "healthcare-provider/source/k07154-healthcare-provider-v721-021319-april-2023.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "healthcare-provider/source/K07128_Healthcare Provider_v721_vs_Healthcare Provider_v611_April 2023.xlsx",
+      "new_path": "healthcare-provider/source/k07128-healthcare-provider-v721-vs-healthcare-provider-v611-april-2023.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "education/source/K06710_Education_v721_April 2023.xlsx",
+      "new_path": "education/source/k06710-education-v721-april-2023.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "education/source/K07131_Education_v721_021019_April 2023.pdf",
+      "new_path": "education/source/k07131-education-v721-021019-april-2023.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "life-sciences/source/K07122_Life_Sciences_v722_vsLife_Sciences_v721_2025.xlsx",
+      "new_path": "life-sciences/source/k07122-life-sciences-v722-vs-life-sciences-v721-2025.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "life-sciences/source/Life Sciences_v722_March_2025.pdf",
+      "new_path": "life-sciences/source/life-sciences-v722-march-2025.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "retail/source/K09368_Retail Process_v721_011519_April 2023.pdf",
+      "new_path": "retail/source/k09368-retail-process-v721-011519-april-2023.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "retail/source/K09276_Retail_v721_vs_Retail_v611_April 2023.xlsx",
+      "new_path": "retail/source/k09276-retail-v721-vs-retail-v611-april-2023.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "automotive/source/K06639_Automotive_v722_vsAutomotive_v721_2025.xlsx",
+      "new_path": "automotive/source/k06639-automotive-v722-vs-automotive-v721-2025.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "automotive/source/Automotive Process_v722_March_2025.pdf",
+      "new_path": "automotive/source/automotive-process-v722-march-2025.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "utilities/source/Utilities Process_v722_March_2025.pdf",
+      "new_path": "utilities/source/utilities-process-v722-march-2025.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "utilities/source/K07220_Utilities_v721_vs_Utilities_v610_2025.xlsx",
+      "new_path": "utilities/source/k07220-utilities-v721-vs-utilities-v610-2025.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "aerospace-defense/source/Aerospace Defense_v722_March_2025.pdf",
+      "new_path": "aerospace-defense/source/aerospace-defense-v722-march-2025.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "aerospace-defense/source/K06637_Aerospace_and_Defense_v722_vsAerospace_and_Defense_v721_2025.xlsx",
+      "new_path": "aerospace-defense/source/k06637-aerospace-and-defense-v722-vs-aerospace-and-defense-v721-2025.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "banking/source/K06640_ Banking_v721_vs_Banking_v610-202001_2025.xlsx",
+      "new_path": "banking/source/k06640-banking-v721-vs-banking-v610-202001-2025.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "banking/source/Banking_722_March_2025.pdf",
+      "new_path": "banking/source/banking-722-march-2025.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "telecom/source/[xxxxx]-163618_PCF_Telecom_Ver_5.0.2_2025.pdf",
+      "new_path": "telecom/source/[xxxxx]-163618-pcf-telecom-ver-5.0.2-2025.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "health-insurance-payor/source/K07130_Health Insurance Payor_721_vs_Health Insurance Payor_611_April 2023.xlsx",
+      "new_path": "health-insurance-payor/source/k07130-health-insurance-payor-721-vs-health-insurance-payor-611-april-2023.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "health-insurance-payor/source/K07155_Health Insurance Payor_721_021319_April 2023.pdf",
+      "new_path": "health-insurance-payor/source/k07155-health-insurance-payor-721-021319-april-2023.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "upstream-petroleum/source/K07127_Petroleum_Upstream_v721_vs_Petroleum_Upstream_v610_2025.xlsx",
+      "new_path": "upstream-petroleum/source/k07127-petroleum-upstream-v721-vs-petroleum-upstream-v610-2025.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "upstream-petroleum/source/Upstream Petroleum_v722_March_2025.pdf",
+      "new_path": "upstream-petroleum/source/upstream-petroleum-v722-march-2025.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "downstream-petroleum/source/Downstream Petroleum_v722_March_2025.pdf",
+      "new_path": "downstream-petroleum/source/downstream-petroleum-v722-march-2025.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "downstream-petroleum/source/K07126_Petroleum_Downstream_v722_vsPetroleum_Downstream_v721_2025.xlsx",
+      "new_path": "downstream-petroleum/source/k07126-petroleum-downstream-v722-vs-petroleum-downstream-v721-2025.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "property-casualty-insurance/source/Property and Casualty Insurance_v722_March_2025.pdf",
+      "new_path": "property-casualty-insurance/source/property-and-casualty-insurance-v722-march-2025.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "property-casualty-insurance/source/K07129_Property and Casualty Insurance_v721_vs_Property and Casualty Insurance_v610_0_2025.xlsx",
+      "new_path": "property-casualty-insurance/source/k07129-property-and-casualty-insurance-v721-vs-property-and-casualty-insurance-v610-0-2025.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/APQC-PCF-GLOSSARY.md",
+      "new_path": "cross-industry-v7.4/apqc-pcf-glossary.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/APQC-PCF-OVERVIEW.md",
+      "new_path": "cross-industry-v7.4/apqc-pcf-overview.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/APQC-PCF-BENCHMARKABLE-METRICS.md",
+      "new_path": "cross-industry-v7.4/apqc-pcf-benchmarkable-metrics.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/APQC-PCF-CHANGE-ANALYSIS.md",
+      "new_path": "cross-industry-v7.4/apqc-pcf-change-analysis.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/PROJECT-PLAN-APQC-PCF-ANALYSIS.md",
+      "new_path": "cross-industry-v7.4/project-plan-apqc-pcf-analysis.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/source/K014750_APQC Process Classification Framework (PCF) - Cross Industry - PDF Version 7.4_January 2025.pdf",
+      "new_path": "cross-industry-v7.4/source/k014750-apqc-process-classification-framework-(pcf)-cross-industry-pdf-version-7.4-january-2025.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/source/K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx",
+      "new_path": "cross-industry-v7.4/source/k08897-cross-industry-v721-vs-v611-april-2023.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/source/K014749_APQC Process Classification Framework (PCF) - Cross-Industry - Excel Version 7.4.xlsx",
+      "new_path": "cross-industry-v7.4/source/k014749-apqc-process-classification-framework-(pcf)-cross-industry-excel-version-7.4.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-08-00-Manage-Information-Technology.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-08-00-manage-information-technology.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-07-00-Develop-and-Manage-Human-Capital.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-07-00-develop-and-manage-human-capital.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-03-00-Market-and-Sell-Products-Services.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-03-00-market-and-sell-products-services.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-00-35-Contact-Information.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-00-35-contact-information.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-00-03-Hierarchy-Levels.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-00-03-hierarchy-levels.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-01-00-Develop-Vision-and-Strategy.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-01-00-develop-vision-and-strategy.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-00-01-Overview.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-00-01-overview.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-09-00-Manage-Financial-Resources.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-09-00-manage-financial-resources.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-10-00-Acquire-Construct-Manage-Assets.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-10-00-acquire-construct-manage-assets.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-11-00-Manage-Enterprise-Risk-Compliance-Resiliency.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-11-00-manage-enterprise-risk-compliance-resiliency.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-05-00-Deliver-Services.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-05-00-deliver-services.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-00-02-Table-of-Contents.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-00-02-table-of-contents.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-02-00-Develop-and-Manage-Products-Services.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-02-00-develop-and-manage-products-services.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-06-00-Manage-Customer-Service.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-06-00-manage-customer-service.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-12-00-Manage-External-Relationships.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-12-00-manage-external-relationships.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-13-00-Develop-and-Manage-Business-Capabilities.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-13-00-develop-and-manage-business-capabilities.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/PCF-04-00-Deliver-Physical-Products.md",
+      "new_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-04-00-deliver-physical-products.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "consumer-electronics/source/K07153_Consumer Electronics_v721_020619_April 2023.pdf",
+      "new_path": "consumer-electronics/source/k07153-consumer-electronics-v721-020619-april-2023.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "consumer-electronics/source/K07123_Consumer Electronics_v721_vs_Consumer Electronics_v611_April 2023.xlsx",
+      "new_path": "consumer-electronics/source/k07123-consumer-electronics-v721-vs-consumer-electronics-v611-april-2023.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "consumer-products/source/Consumer Products_v722_March_2025.pdf",
+      "new_path": "consumer-products/source/consumer-products-v722-march-2025.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "consumer-products/source/K09277_Consumer_Products_v722_vsConsumer_Products_721.xlsx",
+      "new_path": "consumer-products/source/k09277-consumer-products-v722-vs-consumer-products-721.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "airline/source/Airline Process_v722_March_2025.pdf",
+      "new_path": "airline/source/airline-process-v722-march-2025.pdf",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "airline/source/K06638_Airline_v722_vsAirline_v721_2025.xlsx",
+      "new_path": "airline/source/k06638-airline-v722-vs-airline-v721-2025.xlsx",
+      "success": true,
+      "method": "direct",
+      "error": null
+    },
+    {
+      "old_path": "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025",
+      "new_path": "cross-industry-v7.4/k014750-apqc-pcf-cross-industry-v7.4-january-2025",
+      "success": false,
+      "method": null,
+      "error": "Two-step failed: fatal: bad source, source=cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/pcf-01-00-develop-vision-and-strategy.md, destination=cross-industry-v7.4/_temp_K014750-APQC-PCF-Cross-Industry-v7.4-January-2025_1769493704/pcf-01-00-develop-vision-and-strategy.md\n"
+    }
+  ],
+  "reference_updates": {
+    "pcf-decomposition-workflow.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md",
+      "PCF-01-00-Develop-Vision-and-Strategy.md \u2192 pcf-01-00-develop-vision-and-strategy.md",
+      "PCF-00-01-Overview.md \u2192 pcf-00-01-overview.md"
+    ],
+    "README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "broadcasting/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "broadcasting/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "city-government/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "city-government/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "healthcare-provider/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "healthcare-provider/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "education/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "education/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "life-sciences/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "life-sciences/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "retail/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "retail/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "automotive/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "automotive/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "utilities/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "utilities/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "aerospace-defense/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "aerospace-defense/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "banking/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "banking/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "telecom/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "telecom/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "health-insurance-payor/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "health-insurance-payor/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "upstream-petroleum/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "upstream-petroleum/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "downstream-petroleum/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "downstream-petroleum/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "property-casualty-insurance/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "property-casualty-insurance/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "cross-industry-v7.4/category-02-develop-and-manage-products-and-services.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/category-06-manage-customer-service.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/category-12-manage-external-relationships.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/category-11-manage-enterprise-risk-compliance-remediation-and-.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/category-04-deliver-physical-products.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/apqc-pcf-glossary.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/apqc-pcf-overview.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "APQC-PCF-BENCHMARKABLE-METRICS.md \u2192 apqc-pcf-benchmarkable-metrics.md",
+      "APQC-PCF-CHANGE-ANALYSIS.md \u2192 apqc-pcf-change-analysis.md",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/category-10-acquire-construct-and-manage-assets.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/category-01-develop-vision-and-strategy.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/category-09-manage-financial-resources.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/README.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "APQC-PCF-BENCHMARKABLE-METRICS.md \u2192 apqc-pcf-benchmarkable-metrics.md",
+      "APQC-PCF-CHANGE-ANALYSIS.md \u2192 apqc-pcf-change-analysis.md",
+      "PROJECT-PLAN-APQC-PCF-ANALYSIS.md \u2192 project-plan-apqc-pcf-analysis.md",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/apqc-pcf-benchmarkable-metrics.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/apqc-pcf-change-analysis.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-05-deliver-services.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/category-08-manage-information-technology-it.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/project-plan-apqc-pcf-analysis.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "APQC-PCF-BENCHMARKABLE-METRICS.md \u2192 apqc-pcf-benchmarkable-metrics.md",
+      "APQC-PCF-CHANGE-ANALYSIS.md \u2192 apqc-pcf-change-analysis.md",
+      "PROJECT-PLAN-APQC-PCF-ANALYSIS.md \u2192 project-plan-apqc-pcf-analysis.md",
+      "K014750_APQC Process Classification Framework (PCF) - Cross Industry - PDF Version 7.4_January 2025.pdf \u2192 k014750-apqc-process-classification-framework-(pcf)-cross-industry-pdf-version-7.4-january-2025.pdf",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/category-13-develop-and-manage-business-capabilities.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/category-03-market-and-sell-products-and-services.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/CLAUDE.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-07-develop-and-manage-human-capital.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md",
+      "K08897_CrossIndustry_v721_vs_v611_April 2023.xlsx \u2192 k08897-cross-industry-v721-vs-v611-april-2023.xlsx"
+    ],
+    "cross-industry-v7.4/category-09-manage-financial-resources/9.9-manage-taxes.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-09-manage-financial-resources/9.11-perform-global-trade-services.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-09-manage-financial-resources/9.10-manage-international-fundsconsolidation.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-09-manage-financial-resources/9.3-perform-general-accounting-and-reporting.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-09-manage-financial-resources/9.7-manage-treasury-operations.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-09-manage-financial-resources/9.2-perform-revenue-accounting.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-09-manage-financial-resources/9.1-perform-planning-and-management-accounting.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-09-manage-financial-resources/README.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-09-manage-financial-resources/9.5-process-payroll.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-09-manage-financial-resources/9.8-manage-internal-controls.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-09-manage-financial-resources/9.4-manage-fixed-asset-project-accounting.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-09-manage-financial-resources/9.6-process-accounts-payable-and-expense-reimbursement.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-06-manage-customer-service/6.2-plan-and-manage-customer-service-contacts.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-06-manage-customer-service/README.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-06-manage-customer-service/6.3-service-products-after-sales.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-06-manage-customer-service/6.1-develop-customer-carecustomer-service-strategy.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-06-manage-customer-service/6.4-manage-product-recalls-and-regulatory-audits.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-06-manage-customer-service/6.5-evaluate-customer-service-operations-and-customer.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-02-develop-and-manage-products-and-services/2.1-govern-and-manage-productservice-development-progr.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-02-develop-and-manage-products-and-services/2.2-generate-and-define-new-productservice-ideas.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-02-develop-and-manage-products-and-services/2.3-develop-products-and-services.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-02-develop-and-manage-products-and-services/README.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-10-acquire-construct-and-manage-assets/10.4-dispose-of-assets.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-10-acquire-construct-and-manage-assets/10.2-design-and-construct-productive-assets.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-10-acquire-construct-and-manage-assets/README.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-10-acquire-construct-and-manage-assets/10.3-maintain-productive-assets.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-10-acquire-construct-and-manage-assets/10.1-plan-and-acquire-assets.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-03-market-and-sell-products-and-services/3.1-understand-markets-customers-and-capabilities.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-03-market-and-sell-products-and-services/3.5-develop-and-manage-sales-plans.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-03-market-and-sell-products-and-services/3.4-develop-sales-strategy.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-03-market-and-sell-products-and-services/README.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-03-market-and-sell-products-and-services/3.2-develop-marketing-strategy.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-03-market-and-sell-products-and-services/3.3-develop-and-manage-marketing-plans.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-11-manage-enterprise-risk-compliance-remediation-and/11.1-manage-enterprise-risk.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-11-manage-enterprise-risk-compliance-remediation-and/11.2-manage-compliance.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-11-manage-enterprise-risk-compliance-remediation-and/README.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-11-manage-enterprise-risk-compliance-remediation-and/11.4-manage-business-resiliency.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-11-manage-enterprise-risk-compliance-remediation-and/11.3-manage-remediation-efforts.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-08-manage-information-technology-it/8.7-create-and-manage-support-servicessolutions.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-08-manage-information-technology-it/8.3-develop-and-manage-it-resilience-and-risk.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-08-manage-information-technology-it/8.5-develop-and-manage-servicessolutions.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-08-manage-information-technology-it/README.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-08-manage-information-technology-it/8.4-manage-information.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-08-manage-information-technology-it/8.6-deploy-servicessolutions.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-08-manage-information-technology-it/8.2-develop-and-manage-it-business-strategy.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-08-manage-information-technology-it/8.1-develop-and-manage-it-customer-relationships.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/K014750-APQC-PCF-Cross-Industry-v7.4-January-2025/README.md": [
+      "K014750_APQC Process Classification Framework (PCF) - Cross Industry - PDF Version 7.4_January 2025.pdf \u2192 k014750-apqc-process-classification-framework-(pcf)-cross-industry-pdf-version-7.4-january-2025.pdf",
+      "PCF-08-00-Manage-Information-Technology.md \u2192 pcf-08-00-manage-information-technology.md",
+      "PCF-07-00-Develop-and-Manage-Human-Capital.md \u2192 pcf-07-00-develop-and-manage-human-capital.md",
+      "PCF-03-00-Market-and-Sell-Products-Services.md \u2192 pcf-03-00-market-and-sell-products-services.md",
+      "PCF-00-35-Contact-Information.md \u2192 pcf-00-35-contact-information.md",
+      "PCF-00-03-Hierarchy-Levels.md \u2192 pcf-00-03-hierarchy-levels.md",
+      "PCF-01-00-Develop-Vision-and-Strategy.md \u2192 pcf-01-00-develop-vision-and-strategy.md",
+      "PCF-00-01-Overview.md \u2192 pcf-00-01-overview.md",
+      "PCF-09-00-Manage-Financial-Resources.md \u2192 pcf-09-00-manage-financial-resources.md",
+      "PCF-10-00-Acquire-Construct-Manage-Assets.md \u2192 pcf-10-00-acquire-construct-manage-assets.md",
+      "PCF-11-00-Manage-Enterprise-Risk-Compliance-Resiliency.md \u2192 pcf-11-00-manage-enterprise-risk-compliance-resiliency.md",
+      "PCF-05-00-Deliver-Services.md \u2192 pcf-05-00-deliver-services.md",
+      "PCF-00-02-Table-of-Contents.md \u2192 pcf-00-02-table-of-contents.md",
+      "PCF-02-00-Develop-and-Manage-Products-Services.md \u2192 pcf-02-00-develop-and-manage-products-services.md",
+      "PCF-06-00-Manage-Customer-Service.md \u2192 pcf-06-00-manage-customer-service.md",
+      "PCF-12-00-Manage-External-Relationships.md \u2192 pcf-12-00-manage-external-relationships.md",
+      "PCF-13-00-Develop-and-Manage-Business-Capabilities.md \u2192 pcf-13-00-develop-and-manage-business-capabilities.md",
+      "PCF-04-00-Deliver-Physical-Products.md \u2192 pcf-04-00-deliver-physical-products.md"
+    ],
+    "cross-industry-v7.4/category-01-develop-vision-and-strategy/1.2-develop-business-strategy.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-01-develop-vision-and-strategy/README.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-01-develop-vision-and-strategy/1.1-define-the-business-concept-and-long-term-vision.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-01-develop-vision-and-strategy/1.3-execute-and-measure-strategic-initiatives.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-01-develop-vision-and-strategy/1.4-develop-and-maintain-business-models.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-05-deliver-services/5.3-deliver-service-to-customer.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-05-deliver-services/5.2-manage-service-delivery-resources.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-05-deliver-services/README.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-05-deliver-services/5.1-establish-service-delivery-governance-and-strategi.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-04-deliver-physical-products/README.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-04-deliver-physical-products/4.1-plan-for-and-align-supply-chain-resources.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-04-deliver-physical-products/4.4-manage-logistics-and-warehousing.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-04-deliver-physical-products/4.3-produceassembletest-product.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-04-deliver-physical-products/4.2-procure-materials-and-services.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-12-manage-external-relationships/12.5-manage-public-relations-program.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-12-manage-external-relationships/12.1-build-investor-relationships.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-12-manage-external-relationships/README.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-12-manage-external-relationships/12.3-manage-relations-with-board-of-directors.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-12-manage-external-relationships/12.2-manage-government-and-industry-relationships.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-12-manage-external-relationships/12.4-manage-legal-and-ethical-issues.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-07-develop-and-manage-human-capital/7.4-manage-employee-relations.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-07-develop-and-manage-human-capital/7.1-develop-and-manage-human-resources-planning-polici.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-07-develop-and-manage-human-capital/7.2-recruit-source-and-select-employees.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-07-develop-and-manage-human-capital/7.5-reward-and-retain-employees.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-07-develop-and-manage-human-capital/7.6-redeploy-and-retire-employees.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-07-develop-and-manage-human-capital/README.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-07-develop-and-manage-human-capital/7.3-manage-employee-on-boarding-development-and-traini.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-07-develop-and-manage-human-capital/7.7-manage-employee-information-and-analytics.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-07-develop-and-manage-human-capital/7.8-manage-employee-communication.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-07-develop-and-manage-human-capital/7.9-deliver-employee-communications.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-13-develop-and-manage-business-capabilities/13.6-measure-and-benchmark.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-13-develop-and-manage-business-capabilities/13.3-manage-enterprise-quality.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-13-develop-and-manage-business-capabilities/13.7-manage-environmental-health-and-safety-ehs.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-13-develop-and-manage-business-capabilities/13.5-develop-and-manage-enterprise-wide-knowledge-manag.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-13-develop-and-manage-business-capabilities/13.8-develop-manage-and-deliver-analytics.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-13-develop-and-manage-business-capabilities/README.md": [
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-13-develop-and-manage-business-capabilities/13.2-manage-portfolio-program-and-project.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-13-develop-and-manage-business-capabilities/13.4-manage-change.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "cross-industry-v7.4/category-13-develop-and-manage-business-capabilities/13.1-manage-business-processes.md": [
+      "APQC-PCF-GLOSSARY.md \u2192 apqc-pcf-glossary.md",
+      "APQC-PCF-OVERVIEW.md \u2192 apqc-pcf-overview.md"
+    ],
+    "consumer-electronics/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "consumer-electronics/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "consumer-products/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "consumer-products/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "airline/README.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ],
+    "airline/CLAUDE.md": [
+      "PCF-DECOMPOSITION-WORKFLOW.md \u2192 pcf-decomposition-workflow.md"
+    ]
+  }
+}
