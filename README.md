@@ -5,7 +5,8 @@ component_type: guide
 version: 1.0.0
 audience: contributor
 status: draft
-summary: Auto-classified guide document
+summary: APQC Process Classification Framework implementation for enterprise process standardization and automation
+category: enterprise-processes
 keywords:
 - guide
 tokens: ~1000
